@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_NormalMap_TangentSpace
-  m_Shader: {fileID: 4800000, guid: bb940a0578b14ea8841dad1bc238f4e9, type: 3}
+  m_Name: M_NormalMap_WorldSpace
+  m_Shader: {fileID: 4800000, guid: 01eac085341b49a981a6042973bd064a, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
